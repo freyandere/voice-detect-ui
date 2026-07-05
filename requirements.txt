@@ -1,0 +1,19 @@
+# Voice Detection UI Dependencies
+# Core dependencies
+gradio>=4.0.0
+numpy>=1.21.0
+scipy>=1.7.0
+soundfile>=0.12.1
+pydub>=0.25.1
+matplotlib>=3.5.0
+
+# ML/DL dependencies
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+onnxruntime>=1.15.0
+huggingface-hub>=0.19.0
+
+# Additional utilities
+python-dotenv>=1.0.0
